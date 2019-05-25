@@ -10,4 +10,4 @@ before_script:
   - cd src
 
 script:
-  - python manage.py test && flake8
+  - python manage.py test
